@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function doSomeStuff() {
     console.log("Here's a function that does some stuff");
     let button = true;
@@ -9,3 +10,5 @@ function doSomeStuff() {
     }
 
 }
+=======
+>>>>>>> parent of 6086dfb... html, js edits
